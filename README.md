@@ -1,4 +1,3 @@
-GIT BASIC EXERCISE - MTHOKOZISI MBATHA
 
 Learning Outcomes :
 
@@ -10,3 +9,4 @@ How to merge branches
 How to overcome merge conflicts
 
 Random Change
+booya
